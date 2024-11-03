@@ -24,6 +24,8 @@ public class WordCounter {
         // Display the results
         System.out.println("Number of words: " + wordCount);
         System.out.println("Capitalized sentence: " + capitalizedSentence.toString().trim());
+        
+        System.out.println("Added functionality.....");
 
         scanner.close();
     }
