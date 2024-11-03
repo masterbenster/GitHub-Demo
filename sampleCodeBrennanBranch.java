@@ -63,5 +63,8 @@ public class WordCounter {
 
         System.out.println("The result is: " + result);
         scanner.close();
+
+        System.out.println("This program has ended");
+        System.out.println("Thank you for participation");
     }
 }
